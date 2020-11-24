@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1605278468 source:c:\users\saipk\desktop\new folder (3)\practise\src\cafeteria.c
+
+1605278620 source:c:\users\saipk\desktop\new folder (3)\practise\main.c
+	"cafeteria.h"
+	<stdarg.h>
+	<stdio.h>
+
+1605278249 c:\users\saipk\desktop\new folder (3)\practise\inc\cafeteria.h
+
